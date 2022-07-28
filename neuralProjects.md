@@ -142,3 +142,5 @@ https://python.plainenglish.io/python-list-vs-numpy-array-whats-the-difference-7
 4:15:53 start coding regression model
 
 5:04:27 improving regression model
+
+5:16:55 Evaluating a model
