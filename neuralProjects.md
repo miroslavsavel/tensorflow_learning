@@ -140,3 +140,5 @@ https://python.plainenglish.io/python-list-vs-numpy-array-whats-the-difference-7
 - book Hands-on Machine Learning with Scikit-learn Aurelien Geron
 
 4:15:53 start coding regression model
+
+5:04:27 improving regression model
