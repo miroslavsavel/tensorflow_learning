@@ -144,3 +144,19 @@ https://python.plainenglish.io/python-list-vs-numpy-array-whats-the-difference-7
 5:04:27 improving regression model
 
 5:16:55 Evaluating a model
+
+
+loss function = cost fucntion - erro function
+error between output and target value
+https://www.youtube.com/watch?v=-qT8fJTP3Ks
+
+loss function for classification problems
+Cross entropy
+https://www.youtube.com/watch?v=Md4b67HvmRo
+
+optimizers?
+- how to change the line
+
+
+Visualizing prediction 
+6:00:00
