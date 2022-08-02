@@ -82,6 +82,8 @@ ostranil som z User Path variable 4 pre anacondu
 # pozeram ujka
 https://www.youtube.com/watch?v=tpCFfeUEGs8&list=PL6vjgQ2-qJFfU2vF6-lG9DlSa4tROkzt9&index=4
 
+https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/01_neural_network_regression_in_tensorflow.ipynb
+
 staci cez pip nainstalovat tensorflow 2, tam je uz keras obsiahnuty
 https://www.activestate.com/resources/quick-reads/how-to-install-keras-and-tensorflow/
 
@@ -160,3 +162,5 @@ optimizers?
 
 Visualizing prediction 
 6:00:00
+
+Evaluating model predictions with metrics
