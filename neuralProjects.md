@@ -168,4 +168,5 @@ Evaluating model predictions with metrics
 Making experiments with models
 comparing the models
 
-7:02:00  Saving our models
+7:02:00  Saving our models, loaing in
+
