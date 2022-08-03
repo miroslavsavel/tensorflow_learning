@@ -170,3 +170,11 @@ comparing the models
 
 7:02:00  Saving our models, loaing in
 
+7:24:20 how to download files from google colab
+
+7:30:48 A larger example
+https://github.com/stedy/Machine-Learning-with-R-datasets
+dataset from kaggle
+
+8:01:36
+tweaking a larger model
