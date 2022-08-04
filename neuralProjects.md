@@ -157,7 +157,19 @@ Cross entropy
 https://www.youtube.com/watch?v=Md4b67HvmRo
 
 optimizers?
+- update the model in response to the output of the loss function
+- optimizer assist in minimizing the loss function
 - how to change the line
+https://www.youtube.com/watch?v=JhQqquVeCE0
+
+metrics
+https://www.youtube.com/watch?v=rHgQrdME-DA&list=PLZsOBAyNTZwbIjGnolFydAN33gyyGP7lT&index=138
+
+
+epochs
+https://www.youtube.com/watch?v=SftOqbMrGfE
+- one epoch is finished when the network has seen the whole dataset
+- train for multiple epochs
 
 
 Visualizing prediction 
@@ -178,3 +190,18 @@ dataset from kaggle
 
 8:01:36
 tweaking a larger model
+
+8:08:44
+EarlyStopping callback
+-tensorflow component to stop training while loss stops improving certain metrics
+
+Preprocessing data
+8:31:27
+normalization
+standardization
+https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing-data
+https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02
+
+
+8:39:12
+Classification
