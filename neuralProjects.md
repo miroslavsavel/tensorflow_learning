@@ -205,3 +205,17 @@ https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-
 
 8:39:12
 Classification
+binary classification
+multiclass classification
+multilabel classification
+- what is color channel
+
+
+9:21:37
+tensorflow playground
+https://playground.tensorflow.org/#activation=sigmoid&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.54302&showTestData=false&discretize=false&percTrainData=40&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+
+- na linku su odporucene aj dve zname knizky
+ Michael Nielsen’s Neural Networks and Deep Learning is a good place to start. For a more technical overview, try Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+
+https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
