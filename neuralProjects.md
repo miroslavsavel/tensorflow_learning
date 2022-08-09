@@ -219,3 +219,27 @@ https://playground.tensorflow.org/#activation=sigmoid&batchSize=10&dataset=gauss
  Michael Nielsen’s Neural Networks and Deep Learning is a good place to start. For a more technical overview, try Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 
 https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
+
+
+binary cross entropy
+https://www.youtube.com/watch?v=Md4b67HvmRo&t=258s
+loss function penalizes bad predictions
+negtive log function suits well for penalizing bad prpedictions
+
+Logistic Regression vs Linear Regression
+statquest
+https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe
+
+fitting the line
+- https://www.youtube.com/watch?v=PaFPbb66DxQ
+linear regression= R2, p
+- https://www.youtube.com/watch?v=nk2CQITm_eo
+p-values
+https://www.youtube.com/results?search_query=statquest+p+values
+p-values how to interpret them
+https://www.youtube.com/watch?v=vemZtEM63GY 
+ep1
+https://www.youtube.com/watch?v=vN5cNN2-HWE
+
+
+9:33:09 improing not good classification model
