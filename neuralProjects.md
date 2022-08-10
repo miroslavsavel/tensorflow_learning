@@ -226,9 +226,7 @@ https://www.youtube.com/watch?v=Md4b67HvmRo&t=258s
 loss function penalizes bad predictions
 negtive log function suits well for penalizing bad prpedictions
 
-Logistic Regression vs Linear Regression
-statquest
-https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe
+
 
 fitting the line
 - https://www.youtube.com/watch?v=PaFPbb66DxQ
@@ -238,8 +236,43 @@ p-values
 https://www.youtube.com/results?search_query=statquest+p+values
 p-values how to interpret them
 https://www.youtube.com/watch?v=vemZtEM63GY 
+multiple value linear regression
+https://www.youtube.com/watch?v=zITIFTsivN8
+
+Logistic Regression vs Linear Regression
+statquest
+https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe
+logistic regression Tilestats
+https://www.youtube.com/watch?v=yhogDBEa0uQ
+how to use logistic regression as classifier Tilestats
+https://www.youtube.com/watch?v=83hHT1BQFxk
+- nice explained 
+logistic regression edureka!!!
+https://www.youtube.com/watch?v=OCwZyYH14uw
+- nice explained 
+logistic regression - dataminingincae
+https://www.youtube.com/watch?v=gNhogKJ_q7U
+
+- maximum likelyhood
+https://www.youtube.com/watch?v=XepXtl9YKwc
+
 ep1
 https://www.youtube.com/watch?v=vN5cNN2-HWE
 
 
 9:33:09 improing not good classification model
+Adam optimizer
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
+
+
+cross entropy
+https://wandb.ai/sauravmaheshkar/cross-entropy/reports/What-Is-Cross-Entropy-Loss-A-Tutorial-With-Code--VmlldzoxMDA5NTMx
+
+-----
+knapsack problem
+https://www.youtube.com/watch?v=cJ21moQpofY
+reducible
+https://www.youtube.com/watch?v=aPQY__2H3tE
+https://www.youtube.com/watch?v=MacVqujSXWE
+geeks
+https://www.youtube.com/watch?v=ywiH-zRH1mA
